@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rodrisv.github.io/sitemap.xml
